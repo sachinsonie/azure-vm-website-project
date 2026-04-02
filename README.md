@@ -26,7 +26,7 @@ Internet → NSG (Firewall) → Azure VM (Ubuntu) → Nginx → Website
 | Azure Portal | AWS Console |
 
 ## 📸 Screenshots
-
+uploaded
 
 ## 📝 Setup Steps
 1. Created Resource Group
